@@ -1,16 +1,25 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
+- project: yuanjin.io
+  description: 远近商用专线是帮助企业开展全球业务的网络加速器
+
+- project: tan14.cn
+  description: 自主研发的CDN（内容分发网络）产品
+
+- project: WebGame
+  description: <ul class="resume-item-list"><li>《宇宙星神》</li><li>《瓦力》</li><li>《彩虹城》</li><li>《海底世界》</li></ul>
+
 # donutfinder.io
-- project: donutfinder.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
-  # url: "#"
-  description: Donut Locator is an open source node/ember app that lets users find donuts within a defined radius from their home.
+# - project: donutfinder.io
+#   role: Founder & Primary Developer
+#   duration: 2012 &mdash; Present
+#   # url: "#"
+#   description: Donut Locator is an open source node/ember app that lets users find donuts within a defined radius from their home.
 
 #Springfield Donut Eater's User Group
-- project: Springfield Donut Eater's User Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
-  # url: "#"
-  description: DEUG is a local monthly meetup in Springfield where we share all the latest tips and tricks for dat donut lifestyle. I organize the group, and typically eat most of the donuts.
+# - project: Springfield Donut Eater's User Group
+#   role: Co-Founder & Organizer
+#   duration: 2007 &mdash; Present
+#   # url: "#"
+#   description: DEUG is a local monthly meetup in Springfield where we share all the latest tips and tricks for dat donut lifestyle. I organize the group, and typically eat most of the donuts.

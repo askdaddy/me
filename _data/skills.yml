@@ -1,12 +1,43 @@
 # Skills
-# Donut design
-- skill: Donut design
-  description: Sprinkle art, icing design, eclair management, taste testing, donut/coffee pairing research
 
-# Craft beer brewing
-- skill: Craft beer brewing
-  description: Hops inspection, brew testing, distribution management, bottle label design, festival and event management
+- skill: 项目管理
+  description: 研发类项目管理经验丰富
 
-# Family leadership
-- skill: Family leadership
-  description: Bread winning, conflict resolution, couch inspection, TV longevity testing
+- skill: DevOps
+  description: 多年传统Linux运维经验，以及 saltstack 和 ansible 集群化运维经验
+
+- skill: Python
+  description: 写管理平台，运维脚本
+    
+- skill: C/C++
+  description: Linux
+    
+- skill: Java
+  description: Android
+
+- skill: C#
+  description: Windows
+  
+- skill: NodeJS
+  description: ExpressJS 后端 Restful
+  
+- skill: H5/JS
+  description: Angular/Vue ,Web 单页应用
+
+- skill: Shell
+  description: Awk/Sed
+
+- skill: 大数据
+  description: Hadoop / ELK
+
+# # Donut design
+# - skill: Donut design
+#   description: Sprinkle art, icing design, eclair management, taste testing, donut/coffee pairing research
+
+# # Craft beer brewing
+# - skill: Craft beer brewing
+#   description: Hops inspection, brew testing, distribution management, bottle label design, festival and event management
+
+# # Family leadership
+# - skill: Family leadership
+#   description: Bread winning, conflict resolution, couch inspection, TV longevity testing
