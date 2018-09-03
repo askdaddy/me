@@ -1,45 +1,25 @@
 # Jobs
 - company: 上海远近网络有限公司
-  position: 联合创始人/技术总监
+  position: 技术总监
   duration: 2017.3 &mdash; 至今
   summary: <ul class="resume-item-list"><li>VPN业务架构设计</li><li>Windows App 主程</li><li> Android App 主程</li> </ul>
 
 - company: 上海脉创网络科技有限公司
   position: 联合创始人/技术总监
-  duration: 2012.5 &mdash; 至今 （作为股东）
-  summary: 	<ul class="resume-item-list"><li>CDN业务架构设计</li><li>CDN、IDC 业务系统平台研发</li><li>售后支持</li><li>业务拓展</li><li>公司行政管理</li></ul>
+  duration: 2012.5 &mdash; 至今 （股东）
+  summary: 	<ul class="resume-item-list"><li>CDN业务架构设计</li><li>CDN、IDC业务系统研发</li><li>管理研发和运维团队</li><li>售前、售后支持</li><li>业务拓展</li></ul>
 
 - company: 上海游贝信息科技有限公司
-  position: 前后端主程/项目经理/制作人
+  position: 前端主程/后端主程/项目经理/制作人
   duration: 2011.12 &mdash; 2012.5
-  summary: 游戏公司内10人 Studio Leader / 游戏制作人，写游戏后端（C++）、前端（AS3），培养新人。先后3款WebGame上线。
+  summary: Team Leader（10＋人） / 游戏制作人 / 游戏后端主程（C++）/ 遊戲前端主程（AS3）/ 培养新人。先后3款WebGame上线。
 
 - company: 上海酷噜网络科技有限公司
   position: 技术合伙人/WebGame后端主程
   duration: 2007.7 &mdash; 2011.12
-  summary: 负责后端研发，游戏服务器运维，DBA，公司DeskHelp。
+  summary: 负责游戏服务端研发，运维，DBA，公司DeskHelp。
 
 - company: 上海衣魔豆文化传播有限公司
-  position: PHP程序员
+  position: PHP程序员/前端Html程序员
   duration: 2006.7 &mdash; 2007.7
   summary: 第一份正式工作，负责PHP后端以及Html页面动态部分。
-
-
-# Springfield Nuclear Power Plant
-# - company: Springfield Nuclear Power Plant
-#   position: Safety Inspector
-#   duration: Nov, 1980 &mdash; Present
-#   summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>Ate lots of donuts</li><li>Fell asleep rarely</li><li>Left promptly at end of day (sometimes earlier)</li></ul>
-
-# Windmill Crank Operator
-# - company: Sir Putt-A-Lot's Merrie Olde Fun Centre
-#   position: Safety Inspector
-#   duration:  Jun, 1978 &mdash; Sept, 1979
-#   summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
-
-
-# Front Desk Attendant
-# - company: Simpson Lazer Tag
-#   position: Front Desk Attendant
-#   duration:   Jun, 1975  &mdash; May, 1978
-#   summary: Boy, when Marge first told me she was going to the Police Academy, I thought it would be fun and exciting, you know, like the movie... Spaceballs. But instead, it's been painful and disturbing, like the movie Police Academy.

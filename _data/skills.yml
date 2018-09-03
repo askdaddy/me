@@ -1,43 +1,32 @@
 # Skills
 
-- skill: 项目管理
-  description: 研发类项目管理经验丰富
+- skill: 团队管理
+  description: 游戏开发团队，CDN研发团队，IDC运维团队
 
 - skill: DevOps
-  description: 多年传统Linux运维经验，以及 saltstack 和 ansible 集群化运维经验
+  description: Saltstack和Ansible集群化运维，做过CDN架构
 
 - skill: Python
-  description: 写管理平台，运维脚本
+  description: 写管理平台和运维脚本
     
 - skill: C/C++
-  description: Linux
+  description: 基于Linux平台C/C++游戏服务端开发
     
 - skill: Java
-  description: Android
+  description: Android研发，NDK相关的开发
 
 - skill: C#
-  description: Windows
+  description: Windows桌面软件研发
   
 - skill: NodeJS
-  description: ExpressJS 后端 Restful
+  description: 用ExpressJS开发后端Restful API 
   
-- skill: H5/JS
-  description: Angular/Vue ,Web 单页应用
+- skill: Html5
+  description: 用AngularJS 1.0开发Web单页应用
 
-- skill: Shell
-  description: Awk/Sed
+- skill: Linux/BSD
+  description: 10+年Linux和BSD操作系统平台上的研发和运维
 
 - skill: 大数据
-  description: Hadoop / ELK
+  description: Hadoop / ELK，分析日志用
 
-# # Donut design
-# - skill: Donut design
-#   description: Sprinkle art, icing design, eclair management, taste testing, donut/coffee pairing research
-
-# # Craft beer brewing
-# - skill: Craft beer brewing
-#   description: Hops inspection, brew testing, distribution management, bottle label design, festival and event management
-
-# # Family leadership
-# - skill: Family leadership
-#   description: Bread winning, conflict resolution, couch inspection, TV longevity testing
